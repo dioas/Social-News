@@ -9,7 +9,7 @@ Social media New for everyone
 [Production Environment](#production-environment) |
 
 <p>
-  <img src="https://assets-a2.kompasiana.com/items/album/2017/02/10/active-1822476-960-720-589d1bbd9a9373a5048b4569.jpg?t=o&v=760" width="600">
+  <img src="https://media.sproutsocial.com/uploads/2013/12/Recurring_Social-News_640x300.png" width="600">
   <blockquote>
   Project Setup
   </blockquote>
@@ -46,4 +46,4 @@ It make you can see view project like production.
 ### License
 ----
 
-[Beerware](https://en.wikipedia.org/wiki/Beerware "Beerware") © [Gratcy Palma P Hutapea]
+[Beerware](https://en.wikipedia.org/wiki/Beerware "Beerware") © 
