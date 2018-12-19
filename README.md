@@ -21,7 +21,7 @@ Social media New for everyone
 - Node.js - Download and Install [Node.js](https://nodejs.org/en/) with [NVM](https://github.com/creationix/nvm) (Must Have Node version 8.10.00 ++)
 
 ```
-  $ git@github.com/
+  $ git@github.com/dioas/Social-News
   $ cd social-news
   $ yarn
   $ yarn start
